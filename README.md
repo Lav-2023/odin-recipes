@@ -1,0 +1,1 @@
+This project "odin-recipes" is about a html page which showcases the recipes. Skills demonstrated in this will be adding links, recipe content, lists like ordered and unordered, etc.
